@@ -1,4 +1,4 @@
-##### Hi there 👋, my name is Rajib hosen
+##### Hi there 👋, I am Quantum nest
 
 Skills: / HTML / CSS
 
